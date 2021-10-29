@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "test_contents",
+  "info": {
+    "name": "TestContent"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Nombre": {
+      "type": "string"
+    },
+    "Apellido": {
+      "type": "string"
+    }
+  }
+}

@@ -7,3 +7,9 @@ Fork this repo and click the button below to deploy.
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 See the guide at https://render.com/docs/deploy-strapi for more information.
+
+https://dashboard.render.com/web/srv-c5u21l4objdf8th0cm0g
+
+https://strapi-z1js.onrender.com/admin
+
+2124$OMi
